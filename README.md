@@ -15,7 +15,7 @@ En esta competición, tu tarea es predecir si un pasajero fue transportado a una
 ___
 ## **Objetivo:**
 
-El objetivo de este proyecto será predecir qué pasajeros de la nave interestelar Titanic fueron transportado a una dimensión alternativa cuando esta colisionó. Con lo único que contamos para hacer estas predicciones, es un conjunto de registros personales recuperados del sistema informático dañado del la nave. Estos están incompletos...dañados. Pues partiendo de estos datos que se nos proporcionan, debemos de ser capaces de hacer una predióccique pueda ayudar a las naves de rescate.
+El objetivo de este proyecto será predecir qué pasajeros de la nave interestelar Titanic fueron transportado a una dimensión alternativa cuando esta colisionó. Con lo único que contamos para hacer estas predicciones, es un conjunto de registros personales recuperados del sistema informático dañado del la nave. Estos están incompletos...dañados. Pues partiendo de estos datos que se nos proporcionan, debemos de ser capaces de hacer una predicción que pueda ayudar a las naves de rescate.
 
 Aquí podrás encontrar diferentes modelos de machine learning y diferentes predicciones, se pueden consultar en el directorio "notebooks". Después de muchas pruebas nos quedaremos con el modelo que mejores resultados predictivos nos haya arrojado, para finalmente entregarle el modelo que mostraba las mejores métricas, a las tripulaciones de rescate. 
 
